@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kaylamuraoka/Note_Taker_Express_App/issues"
   },
-  "homepage": "https://github.com/kaylamuraoka/Note_Taker_Express_App#readme"
+  "homepage": "https://github.com/kaylamuraoka/Note_Taker_Express_App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
