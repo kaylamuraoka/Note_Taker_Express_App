@@ -38,11 +38,14 @@ The dependencies required for this project are:
 
 - [**express**](https://expressjs.com/) is the most widely used Node.js server framework, this allows us to create our own server-side APIs.
 
+- [**Generate Unique ID**](https://www.npmjs.com/package/generate-unique-id) is used to generate a unique random ID string because each note needs a unique id when it's saved into our database.
+
 To initialize your project and install these required dependencies, open a command prompt at the project's directory and run:
 
 ```
 npm init -y  // initialize the project with NPM
 npm install express  // for express dependencies
+npm install generate-unique-id  // for generate unique id dependencies
 ```
 
 ## Usage
