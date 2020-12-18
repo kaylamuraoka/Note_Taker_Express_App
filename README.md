@@ -20,6 +20,7 @@ The following steps explain how this "Note Taker" application works:
 ## Mock-Up
 
 The following images show the web application's appearance and functionality:
+![Demo Gif of Note Taker App](./public/assets/images/demo_gif.gif)
 
 ## Table of Contents
 
