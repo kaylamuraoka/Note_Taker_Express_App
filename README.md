@@ -50,7 +50,7 @@ npm install generate-unique-id  // for generate unique id dependencies
 
 ## Usage
 
-To use this Note Taker application, go to this link: https://note-taking-planner.herokuapp.com/notes
+Click [**here**](https://note-taking-planner.herokuapp.com/) to view deployed application on Heroku.
 
 ## Credits
 
