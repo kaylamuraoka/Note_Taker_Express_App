@@ -36,7 +36,7 @@ This app uses an Express.js back end to save and retrieve note data from a JSON 
 
 The dependencies required for this project are:
 
-- [**express**](https://expressjs.com/) is the most widely used Node.js server framework, this allows us to create our own server-side APIs.
+- [**Express**](https://expressjs.com/) is the most widely used Node.js server framework, this allows us to create our own server-side APIs.
 
 - [**Generate Unique ID**](https://www.npmjs.com/package/generate-unique-id) is used to generate a unique random ID string because each note needs a unique id when it's saved into our database.
 
@@ -50,7 +50,7 @@ npm install generate-unique-id  // for generate unique id dependencies
 
 ## Usage
 
-To use this Note Taker application, go to this link:
+To use this Note Taker application, go to this link: https://note-taking-planner.herokuapp.com/notes
 
 ## Credits
 
